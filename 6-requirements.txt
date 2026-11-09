@@ -1,0 +1,2 @@
+torch>=2.0    # verified: 2.14.1+cpu (tests, inference) and Colab T4's preinstalled build (recorded run)
+pytest>=7.0   # test suite (run with: python -m pytest)
